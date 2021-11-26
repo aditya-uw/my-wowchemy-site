@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: dark
-day_night: true
+theme: strawberry
+day_night: false
 font: classic
 font_size: M
 
