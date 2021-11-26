@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Undergraduate Research Assistant
+    company: Echospace @ UW-APL
+    company_url: 'https://uw-echospace.github.io'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Seattle, WA
+    date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: My current project with Echospace involves monitoring the bat populations at the Union Bay Natural Area, which is next to the Husky Stadium. I am studying ways to use machine learning on bat 	echolocation call activity to develop an understanding of the foraging and social behaviors that bats exhibit in the wild.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Development Intern
+    company: HCL America Inc.
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Redmond, WA
+    date_start: '2019-06-01'
+    date_end: '2019-8-31'
+    description: Used RegExes and NLP libraries to build an end-to-end text-extraction application for organizing resumes.
 
 design:
   columns: '2'
