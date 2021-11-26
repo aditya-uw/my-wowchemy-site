@@ -37,7 +37,7 @@ experience:
     company_logo: org-x
     location: Redmond, WA
     date_start: '2019-06-01'
-    date_end: '2019-8-01'
+    date_end: '2019-08-01'
     description: Used RegExes and NLP libraries to build an end-to-end text-extraction application for organizing resumes.
 
 design:
