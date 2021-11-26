@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
-day_night: false
-font: ''
+theme: dark
+day_night: true
+font: classic
 font_size: M
 
 # SEO
