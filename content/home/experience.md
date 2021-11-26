@@ -34,7 +34,7 @@ experience:
   - title: Software Development Intern
     company: HCL America Inc.
     company_url: ''
-    company_logo: org-x
+    company_logo: hcl
     location: Redmond, WA
     date_start: '2019-06-01'
     date_end: '2019-08-01'
