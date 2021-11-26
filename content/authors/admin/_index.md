@@ -1,77 +1,77 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Aditya Krishna
+
+# Username (this should match the folder name)
+authors:
+- adkris
+
+weight: 22
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
-# Role/position/tagline
-role: Professor of Artificial Intelligence
+# Role/position
+role: Undergraduate Research Assistant
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Department of Electrical and Computer Engineering
+- name: Applied Physics Laboratory
+- name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in applying artificial intelligence for environmental conservation
 
-# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioacoustics
+- Wildlife conservation
+- Artificial Intelligence 
 
-# Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Electrical Engineering (in progress)
+    institution: University of Washington
+    year: 2024 (expected)
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:adkris@uw.edu' # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Adkris1002
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+  link: https://www.linkedin.com/in/adkris1002/
+- icon: paw
+  icon_pack: fas
+  link: https://wildlabs.net/users/adkris1002
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate around the Spring of 2024 and am looking forward to pursuing graduate studies after receiving my bachelor's degree. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My core competency is in programming with an expertise in Java and Python. Being interested in learning about wildlife since childhood, I chose to embark on a journey to use my programming skills to learn more about wildlife and aid environmental conservation efforts. My current project with Echospace involves monitoring the bat populations at the Union Bay Natural Area, which is next to the Husky Stadium. I am studying ways to use machine learning on bat echolocation call activity to develop an understanding of the foraging and social behaviors that bats exhibit in the wild.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Feel free to ask me any questions at my email on pursuing research as an undergraduate!
+
+
+
+
