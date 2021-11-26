@@ -25,11 +25,11 @@ experience:
   - title: Undergraduate Research Assistant
     company: Echospace @ UW-APL
     company_url: 'https://uw-echospace.github.io'
-    company_logo: org-gc
+    company_logo: apl
     location: Seattle, WA
     date_start: '2021-09-01'
     date_end: ''
-    description: My current project with Echospace involves monitoring the bat populations at the Union Bay Natural Area, which is next to the Husky Stadium. I am studying ways to use machine learning on bat 	echolocation call activity to develop an understanding of the foraging and social behaviors that bats exhibit in the wild.
+    description:
         
   - title: Software Development Intern
     company: HCL America Inc.
@@ -38,7 +38,7 @@ experience:
     location: Redmond, WA
     date_start: '2019-06-01'
     date_end: '2019-08-01'
-    description: Used RegExes and NLP libraries to build an end-to-end text-extraction application for organizing resumes.
+    description:
 
 design:
   columns: '2'
