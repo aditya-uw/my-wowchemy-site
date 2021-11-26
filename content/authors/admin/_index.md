@@ -66,7 +66,7 @@ user_groups:
 - Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate the Spring of 2024 and look forward to pursue graduate school after my bachelor's degree.
+I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
 
 My core competency is in programming, with an expertise in Java and Python. I aim to use my programming skills to aid in ecological & environmental conservation. 
 
