@@ -10,7 +10,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 20
-  - name: Tell me sum'n!
+  - name: Contact
     url: '#contact-me'
     weight: 30
 
