@@ -25,21 +25,21 @@ date_format: Jan 2006
 item:
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: Introduction to signal processing, including both continuous- and discrete-time signals and systems. Convolution of signals. Fourier series and transforms. LTI system properties and filters.
+    description: ● Continuous- and discrete-time signals and systems.<br>● Convolution of signals.<br>● Fourier series and transforms.<br>● LTI system properties and filters.
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
     title: EE242 Signal Processing I
     url: ''
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: Introduction to programming for signal and information processing. Extensive use of numpy and scipy. Introduction to data visualization packages such as Pandas and NetworkX.
+    description: ● Introduction to programming for signal and information processing.<br>● Extensive use of numpy and scipy.<br>● Introduction to data visualization packages such as Pandas and NetworkX.
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
     title: EE241 Programming for Signal and Information Processing Applications
     url: ''
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering. Extensive use of MATLAB and/or Python for programming and solution techniques.
+    description: ● Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering.<br>● Extensive use of MATLAB and/or Python for programming and solution techniques.
     organization: University of Washington AMATH Department
     organization_url: https://amath.washington.edu/
     title: AMATH352 Applied Linear Algebra and Numerical Analysis
