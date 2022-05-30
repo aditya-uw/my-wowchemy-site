@@ -29,7 +29,7 @@ experience:
     location: Seattle, WA
     date_start: '2021-09-01'
     date_end: ''
-    description:
+    description: 
         
   - title: Software Development Intern
     company: HCL America Inc.
@@ -38,7 +38,7 @@ experience:
     location: Redmond, WA
     date_start: '2019-06-01'
     date_end: '2019-08-01'
-    description:
+    description: Assisted employees in developing a software application for the company's HR department that would extract key candidate information from resumes to allow a scalable and efficient method for matching candidate profiles with the company's desired job placement.
 
 design:
   columns: '2'
