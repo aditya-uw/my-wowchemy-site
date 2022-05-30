@@ -21,7 +21,7 @@ organizations:
 - name: University of Washington
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested in applying artificial intelligence for environmental conservation
+bio: Interested in using computational techniques to address the sensory challenges in wildlife conservation.
 
 interests:
 - Bioacoustics
