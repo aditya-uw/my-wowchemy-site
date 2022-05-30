@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Courses'
+title: 'Current Courses'
 subtitle:
 
 # Date format
@@ -30,21 +30,18 @@ item:
     organization_url: https://www.ece.uw.edu/
     title: EE242 Signal Processing I
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+  - date_end: '2022-06-10'
+    date_start: '2022-03-28'
+    organization: University of Washington ECE Department
+    organization_url: https://www.ece.uw.edu/
+    title: EE241 Programming for Signal and Information Processing Applications
+    url: ''
+  - date_end: '2022-06-10'
+    date_start: '2022-03-28'
+    description: Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering. Applied linear algebra, including eigenvalue problems. Emphasis on use of conceptual methods in engineering, mathematics, and science. Extensive use of MATLAB and/or Python for programming and solution techniques.
+    organization: University of Washington AMATH Department
+    organization_url: https://amath.washington.edu/
+    title: AMATH352 Applied Linear Algebra and Numerical Analysis
     url: ''
 
 design:
