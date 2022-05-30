@@ -5,10 +5,10 @@ event: 25th Annual Undergraduate Research Symposium
 event_url: https://expo.uw.edu/expo/apply/635/proceedings
 
 location: University of Washington
-#address:
+address:
 #  street: 
-#  city: Seattle
-#  region: WA
+  city: Seattle
+  region: WA
 #  postcode: 
 #  country: 
 
