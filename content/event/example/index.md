@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Discerning behavioral habits of echolocating bats using acoustical and computational methods
 
-event: Wowchemy Conference
+event: University of Washington's 25th Annual Undergraduate Research Symposium
 event_url: https://example.org
 
 location: Wowchemy HQ
