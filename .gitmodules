@@ -1,16 +1,5 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/aditya-uw/aditya-uw.github.io.git
-	branch = main
+
 [submodule "aditya-uw.github.io"]
 	path = aditya-uw.github.io
-	url = git@github.com:aditya-uw/aditya-uw.github.io.git
-	branch = main
-[submodule "public/public"]
-	path = public/public
-	url = git@github.com:aditya-uw/aditya-uw.github.io.git
-	branch = main
-[submodule "public/aditya-uw.github.io"]
-	path = public/aditya-uw.github.io
 	url = git@github.com:aditya-uw/aditya-uw.github.io.git
 	branch = main
