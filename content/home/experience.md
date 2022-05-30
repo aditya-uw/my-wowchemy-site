@@ -29,7 +29,7 @@ experience:
     location: Seattle, WA
     date_start: '2021-09-01'
     date_end: ''
-    description: ● Collected field data on bat calls for application of machine learning tools. ● Working alongside Dr. Wu-Jung Lee on research and data analysis. ● Participating in monthly journal briefings and weekly project updates.
+    description: ● Collected field data on bat calls for application of machine learning tools. \n● Working alongside Dr. Wu-Jung Lee on research and data analysis. ● Participating in monthly journal briefings and weekly project updates.
         
   - title: Software Development Intern
     company: HCL America Inc.
