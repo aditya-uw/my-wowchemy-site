@@ -41,7 +41,7 @@ featured: true
 #    url: https://twitter.com/georgecushen
 #url_code: ''
 #url_pdf: ''
-url_slides: 0220520_urp_symposium.pdf
+url_slides: 20220520_urp_symposium.pdf
 #url_video: ''
 
 # Markdown Slides (optional).
