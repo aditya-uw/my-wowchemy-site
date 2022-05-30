@@ -38,7 +38,7 @@ experience:
     location: Redmond, WA
     date_start: '2019-06-01'
     date_end: '2019-08-01'
-    description: Assisted employees in developing a software application for the company's HR department that would extract key candidate information from resumes to allow a scalable and efficient method for matching candidate profiles with the company's desired job placement.
+    description: ● Assisted employees in developing a software application for the company's HR department that would extract key candidate information from resumes to allow a scalable and efficient method for matching candidate profiles with the company's desired job placement.<br>● Developed experience in Python, NLP, AWS tools such as DynamoDB and S3 as well as Amazon Cloud where the application ran.
 
 design:
   columns: '2'
