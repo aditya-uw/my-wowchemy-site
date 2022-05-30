@@ -25,13 +25,14 @@ date_format: Jan 2006
 item:
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: ''
+    description: Introduction to signal processing, including both continuous- and discrete-time signals and systems. Convolution of signals. Fourier series and transforms. LTI system properties and filters.
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
     title: EE242 Signal Processing I
     url: ''
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
+    description: Introduction to programming for signal and information processing. Extensive use of numpy and scipy. Introduction to data visualization packages such as Pandas and NetworkX.
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
     title: EE241 Programming for Signal and Information Processing Applications
