@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/aditya-uw/aditya-uw.github.io.git
+	branch = main
