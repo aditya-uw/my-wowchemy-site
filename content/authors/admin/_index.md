@@ -25,8 +25,8 @@ bio: Interested in using computational techniques to address the sensory challen
 
 interests:
 - Bioacoustics
+- Machine learning
 - Wildlife conservation
-- Artificial Intelligence 
 
 education:
   courses:
