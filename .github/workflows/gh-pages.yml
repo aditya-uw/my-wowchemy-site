@@ -36,6 +36,6 @@ jobs:
         # below accordingly.
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
-          github_token: ${{ secrets.HUGO_TOKEN }}
+          personal_token: ${{ secrets.HUGO_TOKEN }}
           external_repository: aditya-uw/aditya-uw.github.io
           publish_dir: ./public
