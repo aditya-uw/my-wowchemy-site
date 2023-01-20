@@ -36,8 +36,8 @@ item:
   - title: C LIT210 Literature and Science
     organization: |2- 
       Instructor: Gary Handwerk
-    date_start: '03-01-2021'
-    date_end: '01-01-2021'
+    date_start: '01-01-2021'
+    date_end: '03-01-2021'
 
 design:
   columns: '2'
