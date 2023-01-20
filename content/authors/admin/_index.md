@@ -24,9 +24,9 @@ organizations:
 bio: Interested in using computational techniques to address the sensory challenges in wildlife conservation.
 
 interests:
-- Bioacoustics
-- Machine learning
-- Wildlife conservation
+- Digital Signal Processing
+- Echolocation/Bioacoustics
+- Passive Acoustic Monitoring
 
 education:
   courses:
@@ -66,14 +66,13 @@ user_groups:
 - Undergraduate Researchers
 ---
 
-I am a student at the University of Washington majoring in Electrical Engineering with a concentration in Digital Signal Processing. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
+I am a student at the University of Washington majoring in Electrical Engineering and pursuing Digital Signal Processing and Neural Engineering concentrations. I am expected to graduate the Spring of 2024 and am interested in pursuing graduate research after my bachelor's degree.
 
-My core competency is in programming, with an expertise in Python and Java. I wish to build computational methods that help understand acoustical data for aid in ecological conservation. 
+My core competency is in programming, with an expertise in Python and Java. I am currently applying signal processing techniques in passive acoustic monitoring of bats with a goal toward ecological conservation.
 
-At Echospace, I am currently applying computational packages on echolocation data to understand the foraging and social behaviors of bats in the wild.
+At Echospace, I am developing and applying computational methods on echolocation data to understand the foraging and social behaviors of bats in the wild. We collect our echolocation data from local bat colonies by deploying autonomous recording units ([AudioMoths](https://www.openacousticdevices.info/audiomoth)), at the Union Bay Natural Area right by the UW Husky Football Stadium.
 
 Feel free to ask me any questions at my email on pursuing research as an undergraduate!
-
 
 
 
