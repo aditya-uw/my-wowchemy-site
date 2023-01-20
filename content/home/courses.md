@@ -23,13 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2022-06-10'
+  - title: EE242 Signal Processing I
+    date_end: '2022-06-10'
     date_start: '2022-03-28'
     description: ● Continuous- and discrete-time signals and systems.<br>● Convolution of signals.<br>● Fourier series and transforms.<br>● LTI system properties and filters.
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
-    title: EE242 Signal Processing I
-    instructor: Tai Chen
     url: ''
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
