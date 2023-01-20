@@ -28,13 +28,13 @@ item:
     organization_url: https://www.ece.uw.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: ● Continuous- and discrete-time signals and systems.<br>● Convolution of signals.<br>● Fourier series and transforms.<br>● LTI system properties and filters
+    description: Instructor: Tai Chen
   - title: AMATH352 Applied Linear Algebra and Numerical Analysis
     organization: University of Washington AMATH Department
     organization_url: https://amath.washington.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: ● Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering.<br>● Extensive use of MATLAB and/or Python for programming and solution techniques.
+    description: Instructor: Anne Greenbaum
 
 design:
   columns: '2'
