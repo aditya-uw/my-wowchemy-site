@@ -28,13 +28,15 @@ item:
     organization_url: https://www.ece.uw.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: Instructor: Tai Chen
+    description: |2-
+      Instructor: Tai Chen
   - title: AMATH352 Applied Linear Algebra and Numerical Analysis
     organization: University of Washington AMATH Department
     organization_url: https://amath.washington.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: Instructor: Anne Greenbaum
+    description: |2-
+      Instructor: Anne Greenbaum
 
 design:
   columns: '2'
