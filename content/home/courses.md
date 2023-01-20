@@ -24,19 +24,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: EE242 Signal Processing I
-    organization: University of Washington ECE Department
-    organization_url: https://www.ece.uw.edu/
-    date_end: '2022-06-10'
-    date_start: '2022-03-28'
-    description: |2-
+    organization: |2-
       Instructor: Tai Chen
-  - title: AMATH352 Applied Linear Algebra and Numerical Analysis
-    organization: University of Washington AMATH Department
-    organization_url: https://amath.washington.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: |2-
+    description: ''
+  - title: AMATH352 Applied Linear Algebra and Numerical Analysis
+    organization: |2-
       Instructor: Anne Greenbaum
+    date_end: '2022-06-10'
+    date_start: '2022-03-28'
+    description: ''
 
 design:
   columns: '2'
