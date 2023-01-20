@@ -24,26 +24,17 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: EE242 Signal Processing I
+    organization: University of Washington ECE Department
+    organization_url: https://www.ece.uw.edu/
     date_end: '2022-06-10'
     date_start: '2022-03-28'
-    description: ● Continuous- and discrete-time signals and systems.<br>● Convolution of signals.<br>● Fourier series and transforms.<br>● LTI system properties and filters.
-    organization: University of Washington ECE Department
-    organization_url: https://www.ece.uw.edu/
-    url: ''
-  - date_end: '2022-06-10'
-    date_start: '2022-03-28'
-    description: ● Introduction to programming for signal and information processing.<br>● Extensive use of numpy and scipy.<br>● Introduction to data visualization packages such as Pandas and NetworkX.
-    organization: University of Washington ECE Department
-    organization_url: https://www.ece.uw.edu/
-    title: EE241 Programming for Signal and Information Processing Applications
-    url: ''
-  - date_end: '2022-06-10'
-    date_start: '2022-03-28'
-    description: ● Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering.<br>● Extensive use of MATLAB and/or Python for programming and solution techniques.
+    description: ● Continuous- and discrete-time signals and systems.<br>● Convolution of signals.<br>● Fourier series and transforms.<br>● LTI system properties and filters
+  - title: AMATH352 Applied Linear Algebra and Numerical Analysis
     organization: University of Washington AMATH Department
     organization_url: https://amath.washington.edu/
-    title: AMATH352 Applied Linear Algebra and Numerical Analysis
-    url: ''
+    date_end: '2022-06-10'
+    date_start: '2022-03-28'
+    description: ● Analysis and application of numerical methods and algorithms to problems in the applied sciences and engineering.<br>● Extensive use of MATLAB and/or Python for programming and solution techniques.
 
 design:
   columns: '2'
