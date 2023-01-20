@@ -16,7 +16,6 @@ role: Undergraduate Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical and Computer Engineering
 - name: Applied Physics Laboratory
 - name: University of Washington
 
