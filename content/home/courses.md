@@ -26,18 +26,18 @@ item:
   - title: EE242 Signal Processing I
     organization: |2- 
       Instructor: Tai Chen
-    date_start: '03-01-2022'
-    date_end: '6-01-2022'
+    date_start: '2022-03-01'
+    date_end: '2022-06-01'
   - title: AMATH352 Applied Linear Algebra and Numerical Analysis
     organization: |2- 
       Instructor: Anne Greenbaum
-    date_start: '03-01-2022'
-    date_end: '6-01-2022'
+    date_start: '2022-03-01'
+    date_end: '2022-06-01'
   - title: C LIT210 Literature and Science
     organization: |2- 
       Instructor: Gary Handwerk
-    date_start: '01-01-2021'
-    date_end: '03-01-2021'
+    date_start: '2021-01-01'
+    date_end: '2021-03-01'
 
 design:
   columns: '2'
