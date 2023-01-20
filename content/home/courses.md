@@ -24,11 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: EE242 Signal Processing I
-    organization: |2- Instructor: Tai Chen
+    organization: |2- 
+      Instructor: Tai Chen
     date_end: '2022-06-10'
     date_start: '2022-03-28'
   - title: AMATH352 Applied Linear Algebra and Numerical Analysis
-    organization: |2- Instructor: Anne Greenbaum
+    organization: |2- 
+      Instructor: Anne Greenbaum
     date_end: '2022-06-10'
     date_start: '2022-03-28'
 
