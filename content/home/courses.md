@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Favorite Courses at UW'
+title: 'Favorite Courses at the UW'
 subtitle:
 
 # Date format
@@ -29,6 +29,7 @@ item:
     organization: University of Washington ECE Department
     organization_url: https://www.ece.uw.edu/
     title: EE242 Signal Processing I
+    instructor: Tai Chen
     url: ''
   - date_end: '2022-06-10'
     date_start: '2022-03-28'
