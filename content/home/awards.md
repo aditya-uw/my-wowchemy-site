@@ -24,8 +24,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: Mary Gates Research Scholar
-    organization: |2- 
-      Instructor: Mary Gates Endowment for Students
+    organization: Mary Gates Endowment for Students
     date_start: '2022-12-01'
     date_end: '2023-6-01'
 
