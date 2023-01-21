@@ -1,6 +1,9 @@
 # IDEs
 .idea/
 
+.DS_Store
+content/.DS_Store
+
 # Hugo
 /resources/
 public/
