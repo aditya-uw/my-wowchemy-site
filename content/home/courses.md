@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: MUS440 Music in Asian America
+    organization: |2- 
+      Instructor: Christina Sunardi
+    date_start: '2022-09-01'
+    date_end: '2022-12-01'
   - title: EE242 Signal Processing I
     organization: |2- 
       Instructor: Tai Chen
