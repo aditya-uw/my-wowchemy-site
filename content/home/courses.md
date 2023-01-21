@@ -38,6 +38,11 @@ item:
       Instructor: Anne Greenbaum
     date_start: '2022-03-01'
     date_end: '2022-06-01'
+  - title: DXARTS470 Sensing and Control Systems for Digital Arts
+    organization: |2- 
+      Instructor: Rihards Vitols
+    date_start: '2022-06-01'
+    date_end: '2022-09-01'
   - title: C LIT210 Literature and Science
     organization: |2- 
       Instructor: Gary Handwerk
