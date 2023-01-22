@@ -25,6 +25,7 @@ date_format: Jan 2006
 item:
   - title: Mary Gates Research Scholar
     organization: Mary Gates Endowment for Students
+    organization_url: https://expd.uw.edu/mge/apply/research/
     date_start: '2022-12-16'
     date_end: '2023-06-16'
 
