@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - title: Mary Gates Research Scholar
     organization: Mary Gates Endowment for Students
-    organization_url: 
+    organization_url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     organization_logo: mgrs
     date_start: '2022-12-16'
     date_end: '2023-06-16'
