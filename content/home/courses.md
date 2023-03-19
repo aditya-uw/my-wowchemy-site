@@ -23,6 +23,21 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: BIOEN448 Bioacoustics and Ultrasound
+    organization: |2- 
+      Instructor: Mike Averkiou
+    date_start: '2023-01-01'
+    date_end: '2023-03-01'
+  - title: INDE315 Probability and Statistics for Engineers
+    organization: |2- 
+      Instructor: Patty Buchanan
+    date_start: '2023-01-01'
+    date_end: '2023-03-01' 
+  - title: EE331 Devices and Circuits I
+    organization: |2- 
+      Instructor: Tai Chen
+    date_start: '2023-01-01'
+    date_end: '2023-03-01'
   - title: MUS440 Music in Asian America
     organization: |2- 
       Instructor: Christina Sunardi
