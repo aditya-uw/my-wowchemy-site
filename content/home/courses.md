@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - title: BIOL130 Intro to Neuroscience
+    organization: |2- 
+      Instructor: Kyobi Skutt-Kakaria
+    date_start: '2023-03-01'
+    date_end: '2023-06-01'
   - title: BIOEN448 Bioacoustics and Ultrasound
     organization: |2- 
       Instructor: Mike Averkiou
