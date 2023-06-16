@@ -23,57 +23,57 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - title: BIOL 130: Introduction to Neuroscience
+  - title: 'BIOL 130: Introduction to Neuroscience'
     organization: |2- 
       Instructor: [Kyobi Skutt-Kakaria](https://www.biology.washington.edu/people/profile/kyobi-skutt-kakaria)
     date_start: '2023-03-01'
     date_end: '2023-06-01'
-  - title: EE 442: Signal Processing II
+  - title: 'EE 442: Signal Processing II'
     organization: |2- 
       Instructor: [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-  - title: BIOEN 448: Bioacoustics and Ultrasound
+  - title: 'BIOEN 448: Bioacoustics and Ultrasound'
     organization: |2- 
       Instructor: [Mike Averkiou](https://bioe.uw.edu/portfolio-items/mike-averkiou/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-  - title: IND E 315: Probability and Statistics for Engineers
+  - title: 'IND E 315: Probability and Statistics for Engineers'
     organization: |2- 
       Instructor: [Patty Buchanan](https://ise.washington.edu/facultyfinder/patty-cecilia-buchanan)
     date_start: '2023-01-01'
     date_end: '2023-03-01' 
-  - title: EE 331: Devices and Circuits I
+  - title: 'EE 331: Devices and Circuits I'
     organization: |2- 
       Instructor: [Tai-Chang Chen](https://people.ece.uw.edu/chen_tai/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-  - title: EE 342: Signal Processing II
+  - title: 'EE 342: Signal Processing II'
     organization: |2- 
       Instructor: [Les Atlas](https://people.ece.uw.edu/atlas/)
     date_start: '2022-09-01'
     date_end: '2022-12-01'
-  - title: MUS 440: Music in Asian America
+  - title: 'MUS 440: Music in Asian America'
     organization: |2- 
       Instructor: [Christina Sunardi](https://music.washington.edu/people/christina-sunardi)
     date_start: '2022-09-01'
     date_end: '2022-12-01'
-  - title: EE 242: Signal Processing I
+  - title: 'EE 242: Signal Processing I'
     organization: |2- 
       Instructor: [Tai-Chang Chen](https://people.ece.uw.edu/chen_tai/)
     date_start: '2022-03-01'
     date_end: '2022-06-01'
-  - title: AMATH 352: Applied Linear Algebra and Numerical Analysis
+  - title: 'AMATH 352: Applied Linear Algebra and Numerical Analysis'
     organization: |2- 
       Instructor: [Anne Greenbaum](https://amath.washington.edu/people/anne-greenbaum)
     date_start: '2022-03-01'
     date_end: '2022-06-01'
-  - title: DXARTS 470: Sensing and Control Systems for Digital Arts
+  - title: 'DXARTS 470: Sensing and Control Systems for Digital Arts'
     organization: |2- 
       Instructor: [Rihards Vitols](https://dxarts.washington.edu/people/rihards-vitols)
     date_start: '2021-06-01'
     date_end: '2021-09-01'
-  - title: C LIT 210: Literature and Science
+  - title: 'C LIT 210: Literature and Science'
     organization: |2- 
       Instructor: [Gary Handwerk](https://environment.uw.edu/faculty/gary-handwerk/)
     date_start: '2021-01-01'
