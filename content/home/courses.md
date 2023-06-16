@@ -28,6 +28,11 @@ item:
       Instructor: Kyobi Skutt-Kakaria
     date_start: '2023-03-01'
     date_end: '2023-06-01'
+  - title: EE 442 Signal Processing II
+    organization: |2- 
+      Instructor: Jenq-Neng Hwang
+    date_start: '2023-01-01'
+    date_end: '2023-03-01'
   - title: BIOEN 448 Bioacoustics and Ultrasound
     organization: |2- 
       Instructor: Mike Averkiou
@@ -43,6 +48,11 @@ item:
       Instructor: Tai Chen
     date_start: '2023-01-01'
     date_end: '2023-03-01'
+  - title: EE 342 Signal Processing II
+    organization: |2- 
+      Instructor: Les Atlas
+    date_start: '2022-09-01'
+    date_end: '2022-12-01'
   - title: MUS 440 Music in Asian America
     organization: |2- 
       Instructor: Christina Sunardi
