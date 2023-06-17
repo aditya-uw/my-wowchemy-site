@@ -28,6 +28,7 @@ item:
       Instructor: [Kyobi Skutt-Kakaria](https://www.biology.washington.edu/people/profile/kyobi-skutt-kakaria)
     date_start: '2023-03-01'
     date_end: '2023-06-01'
+    description: 'good course'
   - title: 'EE 442: Digital Signals and Filtering'
     organization: |2- 
       Instructor: [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)
