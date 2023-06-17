@@ -40,7 +40,7 @@ item:
       Instructor: [Mike Averkiou](https://bioe.uw.edu/portfolio-items/mike-averkiou/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-    description: 'Highly recommended for those interested in signal processing applications. Very interdisciplinary and develops an appreciation for concepts learnt from EE's signal processing courses.'
+    description: "Highly recommended for those interested in signal processing applications. Very interdisciplinary and develops an appreciation for concepts learnt from EE's signal processing courses."
   - title: 'IND E 315: Probability and Statistics for Engineers'
     organization: |2- 
       Instructor: [Patty Buchanan](https://ise.washington.edu/facultyfinder/patty-cecilia-buchanan)
