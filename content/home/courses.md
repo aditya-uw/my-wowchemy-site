@@ -28,7 +28,7 @@ item:
       Instructor: [Kyobi Skutt-Kakaria](https://www.biology.washington.edu/people/profile/kyobi-skutt-kakaria)
     date_start: '2023-03-01'
     date_end: '2023-06-01'
-    description: '● Terrific professor.<br>● Great introductory course.'
+    description: '● Terrific professor who cares about every student.<br>● Great introductory course that develops appreciation for subject.'
   - title: 'EE 442: Digital Signals and Filtering'
     organization: |2- 
       Instructor: [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)
@@ -40,7 +40,7 @@ item:
       Instructor: [Mike Averkiou](https://bioe.uw.edu/portfolio-items/mike-averkiou/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-    description: "● Very interdisciplinary and develops an appreciation for concepts learnt from EE's signal processing courses.<br>● Highly recommended for those interested in signal processing applications."
+    description: "● Very interdisciplinary and develops an appreciation for concepts learnt from EE signal processing courses.<br>● Highly recommended for those interested in signal processing applications."
   - title: 'IND E 315: Probability and Statistics for Engineers'
     organization: |2- 
       Instructor: [Patty Buchanan](https://ise.washington.edu/facultyfinder/patty-cecilia-buchanan)
