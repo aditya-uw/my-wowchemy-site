@@ -28,9 +28,7 @@ item:
       Instructor: [Kyobi Skutt-Kakaria](https://www.biology.washington.edu/people/profile/kyobi-skutt-kakaria)
     date_start: '2023-03-01'
     date_end: '2023-06-01'
-    description: '- Terrific professor.
-		 - Instills a drive to attend every class and learn every detail of the subject.
-		 - Highly recommend with this professor.'
+    description: '- Terrific professor.<br>- Instills a drive to attend every class and learn every detail of the subject.<br>- Highly recommend with this professor.'
   - title: 'EE 442: Digital Signals and Filtering'
     organization: |2- 
       Instructor: [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)
