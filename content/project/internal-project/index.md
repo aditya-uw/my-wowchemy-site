@@ -2,7 +2,9 @@
 title: DXARTS 470 Final Project
 summary: A costume for a blind boxer.
 tags:
-- Deep Learning
+- Arduino
+- Programming
+- Class Project
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
