@@ -52,6 +52,9 @@ As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData t
 - Used laptop to run script while sensors were taking readings to run each function
 - Used plenty of wires connecting all components and wore laptop in a backpack to keep connections.
 
-### Costume photos:
+### Photos:
 
-![costume](./boxing_pic1_small.jpeg)
+
+               Sensors                |                Costume
+:------------------------------------:|:------------------------------------:
+![costume](./boxing_pic2_small.jpeg)  |  ![costume](./boxing_pic1_small.jpeg)
