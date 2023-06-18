@@ -30,6 +30,6 @@ url_video: ""
 slides: example
 ---
 
-# Description:
+## Description:
 
-# Things I learnt:
+## Things I learnt:
