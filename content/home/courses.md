@@ -88,7 +88,7 @@ item:
       Instructor: [Gary Handwerk](https://environment.uw.edu/faculty/gary-handwerk/)
     date_start: '2021-01-01'
     date_end: '2021-03-01'
-    description: '● Excellent and fun professor who emphasizes building good communication skills for aspiring scientists and researchers.<br>● Class taught me how to read and synthesize from various sources to write strong and persuasive argumentative essays.'
+    description: '● Excellent and fun professor who emphasizes building good communication skills for aspiring scientists.<br>● Class taught me how to read and synthesize from various sources to write strong argumentative essays.'
 
 design:
   columns: '2'
