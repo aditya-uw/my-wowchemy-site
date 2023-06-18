@@ -52,6 +52,7 @@ item:
       Instructor: [Tai-Chang Chen](https://people.ece.uw.edu/chen_tai/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
+    description: '● Really good professor who cares about every student.<br>● Lectures were at 8:30am but when 5 people show up, it can feel very easy to ask questions.<br>● Lab projects were intense but TA (Alana Dee) created a very helpful and supportive environment.'
   - title: 'EE 342: Signal Processing II'
     organization: |2- 
       Instructor: [Les Atlas](https://people.ece.uw.edu/atlas/)
