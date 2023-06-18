@@ -58,31 +58,37 @@ item:
       Instructor: [Les Atlas](https://people.ece.uw.edu/atlas/)
     date_start: '2022-09-01'
     date_end: '2022-12-01'
+    description: '● Math-intensive course that teaches fundamental signal processing concepts.<br>● Incredibly helpful TA: Viswa Virinchi.'
   - title: 'MUS 440: Music in Asian America'
     organization: |2- 
       Instructor: [Christina Sunardi](https://music.washington.edu/people/christina-sunardi)
     date_start: '2022-09-01'
     date_end: '2022-12-01'
+    description: '● Very interesting class with a fun and supportive classroom environment.<br>● Provides a window into grad-level ethnomusicology research.'
   - title: 'EE 242: Signal Processing I'
     organization: |2- 
       Instructor: [Tai-Chang Chen](https://people.ece.uw.edu/chen_tai/)
     date_start: '2022-03-01'
     date_end: '2022-06-01'
+    description: '● Math-intensive but fun course with a great professor.<br>● Good introduction to Python and Jupyter Notebook.'
   - title: 'AMATH 352: Applied Linear Algebra and Numerical Analysis'
     organization: |2- 
       Instructor: [Anne Greenbaum](https://amath.washington.edu/people/anne-greenbaum)
     date_start: '2022-03-01'
     date_end: '2022-06-01'
+    description: '● Introduces proof-writing and mathematical thinking.<br>● Provides a great linear algebra toolbox with applications in various software.'
   - title: 'DXARTS 470: Sensing and Control Systems for Digital Arts'
     organization: |2- 
       Instructor: [Rihards Vitols](https://dxarts.washington.edu/people/rihards-vitols)
     date_start: '2021-06-01'
     date_end: '2021-09-01'
+    description: '● Extremely fun course that introduces Arduino and circuitry to build art pieces.'
   - title: 'C LIT 210: Literature and Science'
     organization: |2- 
       Instructor: [Gary Handwerk](https://environment.uw.edu/faculty/gary-handwerk/)
     date_start: '2021-01-01'
     date_end: '2021-03-01'
+    description: '● Excellent and fun professor who emphasizes building good communication skills for aspiring scientists and researchers.<br>● Class taught me how to read and synthesize from various sources to write strong and persuasive argumentative essays.'
 
 design:
   columns: '2'
