@@ -34,31 +34,26 @@ item:
       Instructor: [Jenq-Neng Hwang](https://people.ece.uw.edu/hwang/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-#    description: 'A very coding-heavy course that teaches advanced and fascinating signal processing techniques'
   - title: 'BIOEN 448: Bioacoustics and Ultrasound'
     organization: |2- 
       Instructor: [Mike Averkiou](https://bioe.uw.edu/portfolio-items/mike-averkiou/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-#    description: "Highly recommended for those interested in signal processing applications. Very interdisciplinary and develops an appreciation for concepts learnt from EE's signal processing courses."
   - title: 'IND E 315: Probability and Statistics for Engineers'
     organization: |2- 
       Instructor: [Patty Buchanan](https://ise.washington.edu/facultyfinder/patty-cecilia-buchanan)
     date_start: '2023-01-01'
-    date_end: '2023-03-01' 
-    description: 'Fantastic professor who appreciates classroom discussion. Understandably high in demand so reach out to ise@uw.edu for add codes. That's how I did it.'
+    date_end: '2023-03-01'
   - title: 'EE 331: Devices and Circuits I'
     organization: |2- 
       Instructor: [Tai-Chang Chen](https://people.ece.uw.edu/chen_tai/)
     date_start: '2023-01-01'
     date_end: '2023-03-01'
-#    description: 'Really good professor who cares about every student. Lectures were at 8:30am and when 5 people show up, it can feel very easy to ask questions and discuss with professor. Lab projects were intense but TA (Alana Dee) created a very helpful and supportive environment.'
   - title: 'EE 342: Signal Processing II'
     organization: |2- 
       Instructor: [Les Atlas](https://people.ece.uw.edu/atlas/)
     date_start: '2022-09-01'
     date_end: '2022-12-01'
-#    description: 'Math-intensive course that brought the best out of me. Incredibly helpful TA: Viswa Virinchi.'
   - title: 'MUS 440: Music in Asian America'
     organization: |2- 
       Instructor: [Christina Sunardi](https://music.washington.edu/people/christina-sunardi)
