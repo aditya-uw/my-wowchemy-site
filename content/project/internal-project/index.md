@@ -41,6 +41,7 @@ As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData t
 - Force/Pressure sensor
 - Arduino C/C++
 - PureData
+- Plenty of wires
 
 ### Instructions:
 
@@ -48,4 +49,9 @@ As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData t
 - Configured a script into my Arduino board with functions for each glove:
    - Play a sine wave with frequency dependent on proximity sensor readings
    - Play a "boing!" sound effect when the force sensor receives sufficient force
+- Used laptop to run script while sensors were taking readings to run each function
+- Used plenty of wires connecting all components and wore laptop in a backpack to keep connections.
 
+### Costume photos:
+
+![](/images/DXARTS470/boxing_pic1.jpg)
