@@ -46,6 +46,6 @@ As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData t
 
 - Attached a proximity sensor and a force sensor to 2 boxing gloves
 - Configured a script into my Arduino board with functions for each glove:
- - Play a sine wave with frequency dependent on proximity sensor readings
- - Play a "boing!" sound effect when the force sensor receives sufficient force
+   - Play a sine wave with frequency dependent on proximity sensor readings
+   - Play a "boing!" sound effect when the force sensor receives sufficient force
 
