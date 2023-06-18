@@ -54,4 +54,4 @@ As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData t
 
 ### Costume photos:
 
-![costume](./boxing_pic1.jpg)
+![costume](./boxing_pic1_medium.jpg)
