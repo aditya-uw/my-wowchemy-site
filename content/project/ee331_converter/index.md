@@ -1,9 +1,9 @@
 ---
-title: DXARTS 470 Final Project
-summary: A costume for a blind boxer.
+title: EE 331 Final Project
+summary: An AC-DC Voltage Amplifying Converter
 tags:
-- Arduino
-- Programming
+- Circuits
+- Simulation
 - Class Projects
 date: "2016-04-27T00:00:00Z"
 
@@ -11,7 +11,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: ''
+  caption: 'My incredible team (left to right): Nattapon Oonlamom (Genie), Ewan Lister, and Jarod Marshel'
   focal_point: Smart
 
 # links:
@@ -34,28 +34,4 @@ slides: example
 
 ## Description:
 
-As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData to implement a set of boxing gloves that would help a blind person effectively be a boxer.
-
-### Materials:
-
-- Arduino board
-- IR Proximity sensor
-- Force/Pressure sensor
-- Arduino C/C++
-- PureData
-- Plenty of wires
-
-### Instructions:
-
-- Attached a proximity sensor and a force sensor to 2 boxing gloves
-- Configured a script into my Arduino board with functions for each glove:
-   - Play a sine wave with frequency dependent on proximity sensor readings
-   - Play a "boing!" sound effect when the force sensor receives sufficient force
-- Used laptop to run script while sensors were taking readings to run each function
-- Used plenty of wires connecting all components and wore laptop in a backpack to keep connections.
-
-### Photos:
-
-Sensors             |  Costume
-:-------------------------:|:-------------------------:
-![sensors](./boxing_pic2_small.jpeg)  |  ![costume](./boxing_pic1_small.jpeg)
+For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.
