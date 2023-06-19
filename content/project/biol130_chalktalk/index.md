@@ -34,4 +34,4 @@ slides: example
 
 ## Description:
 
-Our final project assignment in this class was to read a paper of our choosing that is relevant to the field of Neuroscience and present about it in a chalk talk format. My partner, [Jesus Segovia](linkedin.com/in/jesus-segovia-594b12262), and I decided to read Nicholas Bellono's paper [*Molecular tuning of electroreception in sharks and skates*](https://doi.org/10.1038/s41586-018-0160-9).
+Our final project assignment in this class was to read a paper of our choosing that is relevant to the field of Neuroscience and present about it in a chalk talk format. My partner, [Jesus Segovia](https://www.linkedin.com/in/jesus-segovia-594b12262), and I decided to read Nicholas Bellono's paper [*Molecular tuning of electroreception in sharks and skates*](https://doi.org/10.1038/s41586-018-0160-9).
