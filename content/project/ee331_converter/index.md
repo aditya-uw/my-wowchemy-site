@@ -1,6 +1,6 @@
 ---
 title: EE 331 Final Project
-summary: An AC-DC Voltage Amplifying Converter
+summary: An AC-DC converter with voltage amplification
 tags:
 - Circuits
 - Simulation
@@ -58,5 +58,5 @@ Note: Not sure if sharing these pictures supports plagiarism but if you can get 
 
 ## Acknowledgments:
 - I want to thank my group members-- Genie, Ewan, and Jarod -- for their tremendous support and dedication on this project. We worked together on the circuit several days from mornings to evenings.
-- I want to thank TA Alana Dee for being patient and guiding us in our project.
-- I also want to thank Professor Tai Chen for offering his support and clearly explaining project specs.
+- I also want to thank TA Alana Dee for being patient and guiding us in our project.
+- I finally want to thank Professor Tai Chen for offering his support and clearly explaining project specs.
