@@ -20,7 +20,7 @@ image:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: 20221109_recap.pdf
 url_video: ""
 
 # Slides (optional).
@@ -32,3 +32,5 @@ slides: example
 ---
 
 ## Description:
+
+
