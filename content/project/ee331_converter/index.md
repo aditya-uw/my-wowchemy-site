@@ -35,3 +35,5 @@ slides: example
 ## Description:
 
 For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.
+
+![block diagram](./block_diagram.png)
