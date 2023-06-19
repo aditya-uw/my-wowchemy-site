@@ -37,9 +37,11 @@ slides: example
 For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.
 
 ### Here is our block diagram:
+
 ![block diagram](./block_diagram.png)
 
 ### Here is our final circuit:
+
 ![circuit](./circuit.png)
 Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left to right)
 
