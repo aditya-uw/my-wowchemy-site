@@ -36,7 +36,16 @@ slides: example
 
 For our EE 331 course, we had to build an AC-DC voltage amplifying converter that uses a rectifier, a boost topology, and a voltage regulator.
 
-### Here is our block diagram:
+The functions of each component were as follows:
+- Rectifier: Transforms 10V AC input signal to 10V DC signal with <1.0V ripple voltage.
+- Boost Topology: Uses duty-cycle input voltage from PWM to boost 10V DC input voltage up to 20V.
+- Voltage Regulator: Regulates output voltage to be between 10-20V while providing 0-1mA of current to load.
+
+We first drew up a block diagram of the specifications for our project components. We then created and tested our circuit schematic on LTspice simulation software. We finally moved on to implementing our circuit on breadboard.
+
+Disclaimer: We could not get all components to work together consistently as intended. However, each component functioned as expected independently.
+
+### Here is our block diagram of our specific components:
 
 ![block diagram](./block_diagram.png)
 
