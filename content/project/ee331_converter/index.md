@@ -57,6 +57,6 @@ Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left 
 Note: Not sure if sharing these pictures supports plagiarism but if you can get your circuit working by using the information I've shared here, you deserve the grade.
 
 ## Acknowledgments:
-- I want to thank my group members-- Genie, Ewan, and Jarod -- for their tremendous support and dedication on this project We worked together on the circuit several days from mornings to evenings.
+- I want to thank my group members-- Genie, Ewan, and Jarod -- for their tremendous support and dedication on this project. We worked together on the circuit several days from mornings to evenings.
 - I want to thank TA Alana Dee for being patient and guiding us in our project.
-- I also want to thank Professor Tai Chen for listening to our problems and offering his support.
+- I also want to thank Professor Tai Chen for offering his support and clearly explaining project specs.
