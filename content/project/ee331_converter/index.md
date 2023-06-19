@@ -55,3 +55,8 @@ Disclaimer: We could not get all components to work together consistently as int
 Full-Wave Bridge Rectifier, PWM, Boost Converter, Voltage Regulator, Load (left to right)
 
 Note: Not sure if sharing these pictures supports plagiarism but if you can get your circuit working by using the information I've shared here, you deserve the grade.
+
+## Acknowledgments:
+- I want to thank my group members for their tremendous support and dedication to working on this project with me. We worked together on our circuit many days from 9am to 6, 7, and even 8pm.
+- I want to thank TA Alana Dee for being patient and guiding us in our project.
+- I also want to thank Professor Tai Chen for listening to our problems and offering his support.
