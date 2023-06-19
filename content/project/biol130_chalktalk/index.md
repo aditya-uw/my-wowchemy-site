@@ -1,9 +1,9 @@
 ---
-title: DXARTS 470 Final Project
-summary: A costume for a blind boxer.
+title: BIOL 130 Final Project
+summary: A chalk talk presentation on electroreception in Sharks and Skates.
 tags:
-- Arduino
-- Programming
+- Sensory Biology & Neuroscience
+- Research
 - Class Projects
 date: "2016-04-27T00:00:00Z"
 
@@ -34,28 +34,4 @@ slides: example
 
 ## Description:
 
-As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData to implement a set of boxing gloves that would help a blind person effectively be a boxer.
-
-### Materials:
-
-- Arduino board
-- IR Proximity sensor
-- Force/Pressure sensor
-- Arduino C/C++
-- PureData
-- Plenty of wires
-
-### Instructions:
-
-- Attached a proximity sensor and a force sensor to 2 boxing gloves
-- Configured a script into my Arduino board with functions for each glove:
-   - Play a sine wave with frequency dependent on proximity sensor readings
-   - Play a "boing!" sound effect when the force sensor receives sufficient force
-- Used laptop to run script while sensors were taking readings to run each function
-- Used plenty of wires connecting all components and wore laptop in a backpack to keep connections.
-
-### Photos:
-
-Sensors             |  Costume
-:-------------------------:|:-------------------------:
-![sensors](./boxing_pic2_small.jpeg)  |  ![costume](./boxing_pic1_small.jpeg)
+Our final project assignment in this class was to read a paper of our choosing that is relevant to the field of Neuroscience and present about it in a chalk talk format. My partner, [Jesus Segovia](linkedin.com/in/jesus-segovia-594b12262), and I decided to read Nicholas Bellono's paper [*Molecular tuning of electroreception in sharks and skates*](https://doi.org/10.1038/s41586-018-0160-9).
