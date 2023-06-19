@@ -9,6 +9,9 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+# Optional filename of your slides within your talk's folder or a URL.
+url_slides: 20221109_recap.pdf
+
 image:
   caption: ''
   focal_point: Smart
@@ -20,7 +23,6 @@ image:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: 20221109_recap.pdf
 url_video: ""
 
 # Slides (optional).
