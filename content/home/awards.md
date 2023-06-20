@@ -30,7 +30,7 @@ item:
     organization_logo: mgrs
     date_start: '2022-12-16'
     date_end: '2023-06-16'
-    description: ● Awarded for investigation into duty cycle-based subsampling for passive acoustic bat monitoring.<br>● Here is [the talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) related to this project.
+    description: ● Awarded for research project of investigating duty cycle-based subsampling for passive acoustic bat monitoring.<br>● Here is [the project talk](https://aditya-uw.github.io/talk/investigation-of-duty-cycles-in-passive-acoustic-bat-monitoring/) I gave at the UW's 26th undergraduate research symposium.
 
 design:
   columns: '2'
