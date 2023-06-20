@@ -51,6 +51,6 @@ Our final project assignment in this class was to read a paper of our choosing t
 ## **Here are my [research notes](./research_notes.pdf)**
 ## **Here were some of my [talking points](./script.pdf) for the talk**
 
-### Acknowledgements:
+## Acknowledgements:
 
 I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new experience and I enjoyed presenting research in this format.
