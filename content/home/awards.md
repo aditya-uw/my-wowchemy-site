@@ -24,11 +24,13 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - title: Mary Gates Research Scholar
+    url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     organization: Mary Gates Endowment for Students
-    organization_url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
+    organization_url: https://expd.uw.edu/mge/apply/research/
     organization_logo: mgrs
     date_start: '2022-12-16'
     date_end: '2023-06-16'
+    description: Awarded for investigation into subsampling for passive acoustic monitoring.
 
 design:
   columns: '2'
