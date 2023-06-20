@@ -49,3 +49,10 @@ We collected acoustic activity from June to October 2022 with certain Audiomoth 
 - [Details focusing on project materials, methods, and locations](./20220830_summer.pdf)
 - [Details focusing on project results, conclusions, and future steps](./20221109_recap.pdf)
 
+### Here is the [Github repo](https://github.com/uw-echospace/union-bay-bats) for this project.
+
+## Acknowledgements
+
+- I want to thank my colleague Josie Sachen for helping us with this project. We had to work 2-3 times a week for 4 hours during Seattle heat waves and all and I'm thankful for her support.
+- I also want to thank the Applied Physics Laboratories for the funding they provided me towards this project.
+- I finally want to acknowledge my principal investigator Wu-Jung Lee for her patience and guidance in performing fieldwork and running analysis on collected acoustic data.
