@@ -57,7 +57,10 @@ We collected acoustic activity from June to October 2022 with certain Audiomoth 
 
 ## Activity plots for all 6 locations
 
-Here are rough plots when we counted the number of bat call detections for each 30-min Audiomoth .wav recording. We assembled this count with the y-axis corresponding to time during each recording schedule and the x-axis corresponding to days where we deployed the Audiomoths.
+Here are rough plots when we counted the number of bat call detections for each 30-min Audiomoth .wav recording. The plot features are as follows:
+- The y-axis corresponds to time during each recording schedule 
+- The x-axis corresponding to days where we deployed the Audiomoths.
+- The color of each cell corresponds to the number of detections made by our automated detector.
 
 Notes:
 - We used RavenPro's Band-Limited Energy Detector to produce bat call detections. 
