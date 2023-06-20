@@ -53,4 +53,4 @@ Our final project assignment in this class was to read a paper of our choosing t
 
 ### Acknowledgements:
 
-- I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new but fun experience and I enjoyed presenting research in this format.
+- I want to thank my professor Kyobi Skutt-Kakaria for assigning our final project as a chalk talk. This was a new experience and I enjoyed presenting research in this format.
