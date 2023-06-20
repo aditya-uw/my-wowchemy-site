@@ -35,7 +35,11 @@ slides: example
 
 ## Description:
 
-I worked under my principal investigator, Dr. Wu-Jung Lee, to conduct a passive acoustic bat monitoring project. My colleague, Josie Sachen, and I deployed 6 Audiomoth recorders at 6 different locations at the Union Bay Natural Area near the UW's football stadium and the E-18 parking lot.
+I worked under my principal investigator, Dr. Wu-Jung Lee, to conduct a passive acoustic bat monitoring project. My colleague, Josie Sachen, and I deployed 6 Audiomoth recorders at 6 different locations at the Union Bay Natural Area (UBNA) near the UW's football stadium and the E-18 parking lot.
+
+### Here is a map of the UBNA and our 6 locations
+
+![map](./featured_map.png)
 
 Our intention was to collect acoustic activity of echolocating bats over the Summer season when bat activity rises with the increase of insect presence. We could use this activity to develop computational bat call detectors and understand how to build a long-term PAM project for studying the use of echolocation in navigation and foraging in bats.
 
