@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - title: [Mary Gates Research Scholar](https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/)
+  - title: Mary Gates Research Scholar
     organization: Mary Gates Endowment for Students
-    organization_url: https://expd.uw.edu/mge/apply/research/
+    organization_url: https://expd.uw.edu/mge/scholar-profiles/aditya-krishna/
     organization_logo: mgrs
     date_start: '2022-12-16'
     date_end: '2023-06-16'
