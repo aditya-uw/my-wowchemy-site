@@ -53,11 +53,14 @@ We collected acoustic activity from June to October 2022 with certain Audiomoth 
 
 ## Activity plots for all 6 locations
 
+Here are rough plots when we counted the number of bat call detections for each 30-min Audiomoth .wav recording. We assembled this count with the y-axis corresponding to time during each recording schedule and the x-axis corresponding to days where we deployed the Audiomoths.
+
 Notes:
 - We used RavenPro's Band-Limited Energy Detector to produce bat call detections. 
    - This detector looks at signal energy and is non-specific -- not paying attention to the shape or pattern of calls. 
-   - This meant that our detections would not be high in accuracy but the detector worked fast and provided time durations and frequency ranges for each call.
+   - This meant that our detections would not be accurate but the level of accuracy was enough to get a rough estimate if the locations we chose contained bats.
 - Here we also divided bat calls into two observed major groupings: low-frequency bat calls (20-45kHz) and high-frequency bat calls (35-75kHz), denoted as LF and HF respectively.
+- Whitespace here is when Audiomoths were either not deployed that day or they stopped recording due to errors in battery and memory.
 
 ### Central Pond
 
@@ -66,6 +69,46 @@ Low-frequency bat call activity from July 29th to October 17th
 
 High-frequency bat call activity from July 29th to October 17th
 ![hf_central](./ActivityPlots/HFCentral.png)
+
+### Carp Pond
+
+Low-frequency bat call activity from July 29th to October 17th
+![lf_carp](./ActivityPlots/LFCarp.png)
+
+High-frequency bat call activity from July 29th to October 17th
+![hf_carp](./ActivityPlots/HFCarp.png)
+
+### Foliage
+
+Low-frequency bat call activity from July 29th to October 17th
+![lf_foliage](./ActivityPlots/LFFoliage.png)
+
+High-frequency bat call activity from July 29th to October 17th
+![hf_foliage](./ActivityPlots/HFFoliage.png)
+
+### Telephone Field
+
+Low-frequency bat call activity from July 23th to October 17th
+![lf_telephone](./ActivityPlots/LFTelephone.png)
+
+High-frequency bat call activity from July 23th to October 17th
+![hf_telephone](./ActivityPlots/HFTelephone.png)
+
+### Opposite Central Pond
+
+Low-frequency bat call activity from August 19th to October 17th
+![lf_ocp](./ActivityPlots/LFOpposite.png)
+
+High-frequency bat call activity from August 19th to October 17th
+![hf_ocp](./ActivityPlots/HFOpposite.png)
+
+### Fallen Tree
+
+Low-frequency bat call activity from August 19th to October 17th
+![lf_fallen](./ActivityPlots/LFFallen.png)
+
+High-frequency bat call activity from August 19th to October 17th
+![hf_fallen](./ActivityPlots/HFFallen.png)
 
 ## Acknowledgements for this project:
 
