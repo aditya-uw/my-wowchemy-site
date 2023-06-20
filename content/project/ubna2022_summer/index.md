@@ -53,6 +53,8 @@ We collected acoustic activity from June to October 2022 with certain Audiomoth 
 
 ## Acknowledgements
 
-- I want to thank my colleague Josie Sachen for helping us with this project. We had to work 2-3 times a week for 4 hours during Seattle heat waves and all and I'm thankful for her support.
+- I want to thank my colleague Josie Sachen for helping us with this project. 
+   - We had to work 2-3 times a week for 4 hours, sometimes during Seattle heat waves and I'm thankful for her support.
+   - The UBNA Bat Monitoring Logo (featured image) was also inspired from our shared interest in the Jurassic Park movies.
 - I also want to thank the Applied Physics Laboratories for the funding they provided me towards this project.
 - I finally want to acknowledge my principal investigator Wu-Jung Lee for her patience and guidance in performing fieldwork and running analysis on collected acoustic data.
