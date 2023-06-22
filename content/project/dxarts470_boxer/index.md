@@ -34,7 +34,8 @@ slides: example
 
 ## Description:
 
-As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData to implement a set of boxing gloves that would help a blind person effectively be a boxer.
+As a fan of the Netflix show 'Daredevil', I wanted to use Arduino and PureData to build a costume based on a futuristic blind boxer whose gloves would be equipped with sensors allowing them to fight.
+
 
 ### Materials:
 
